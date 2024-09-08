@@ -1,4 +1,4 @@
-Comenzamos a estudiar JPA y la implementación con Hibernate. (Proyecto de base )
-1- Descargar el proyecto
-2- Abrir en Intelligent Idea Community
-3 - Este Proyecto utiliza gradle y la base de dato H2 en memoria para simplificar
+Trabajo práctico JPA UTN
+Descargue el archivo comprimido.
+Cuando este descargado de click derecho, "extraer aqui"
+Abra el proyecto con su editor de codigo
